@@ -1417,7 +1417,7 @@
 
 <br><br>
 
-# :octocat: Github Custom Emoji
+# :🧑‍💻Github Custom Emoji
 |      ICON       | SHORTCODE         |  TRANS   |     ICON     | SHORTCODE      |   TRANS    |
 |:---------------:|-------------------|:--------:|:------------:|----------------|:----------:|
 | :accessibility: | `:accessibility:` |  可达性  |    :atom:    | `:atom:`       |    原子    |
