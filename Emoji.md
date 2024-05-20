@@ -1,4 +1,5 @@
 # <center>🤪Emoji Self-Checklist👻💩😈</center>
+使用时直接在网页上按 Ctrl+F 进行网页搜索关键词，会自动高亮与之匹配的Emoji，按 Enter 跳转至下一个匹配项。
 
 <details open>
 <summary><strong><font size=6><b>Table of Contents</summary><strong></font>
